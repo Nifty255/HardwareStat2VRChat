@@ -1,0 +1,16 @@
+{
+  "name": "hwstat-to-vrchat",
+  "version": "1.0.0",
+  "description": "Pipe your CPU and memory stats into VRChat using OSC!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VRChat",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "osc": "^2.4.2",
+    "winston": "^3.6.0"
+  }
+}
