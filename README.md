@@ -1,6 +1,8 @@
 # Hardware Stat 2 VRChat
 ## Example Custom OSC Driver
 
+**Remember to enable OSC in your Action Menu!** `Action Menu -> Config -> OSC`
+
 This project serves as an example of how to code your own OSC driver for VRChat. This example driver sends your per-core CPU and RAM usage to avatar parameters.
 
 The driver has been written in 2 languages: Golang and Node.js. The Golang version has an .exe prebuilt in the Releases section. The Node.js version can't be built into an .exe and therefore requires you to install Node.js to run. Both versions have their own dedicated README on how to run/build them or customize their parameters.
